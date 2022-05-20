@@ -112,6 +112,7 @@
     });
 
     $(".home-slider").owlCarousel({
+        
         animateOut: 'animate__animated animate__slideOutDown',
         animateIn: 'animate__animated animate__slideInDown',
         items: 1,
